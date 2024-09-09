@@ -7,4 +7,4 @@
 |-------------------------------|-----------------------------------------------------------------------------------------------|
 | Day 1 - VPC / Networking              | [Link do Github](https://github.com/So4resAlex/aws-containers-vpc)                 |
 | Day 2 - ECS + EC2              | [Link do Github](https://github.com/So4resAlex/aws-containers-ecs-ec2-cluster)                 |
-| Day 3 - ECS + Fargate            | [Link do Github](https://github.com/So4resAlex/arquitetura-containers-linuxtips/blob/main/docs/construction-dog%20.png)                 |
+| Day 3 - ECS + Fargate            | [Link do Github](https://github.com/So4resAlex/arquitetura-containers-linuxtips/blob/main/docs/construction-dog.png)                 |
